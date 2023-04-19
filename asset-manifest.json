@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/foodapp/static/css/main.48afa94b.css",
-    "main.js": "/foodapp/static/js/main.cd24e1b3.js",
-    "static/js/787.c20870d0.chunk.js": "/foodapp/static/js/787.c20870d0.chunk.js",
-    "static/media/reataurant.jpg": "/foodapp/static/media/reataurant.805ca91f81b7e6746a57.jpg",
-    "static/media/ohasoup.webp": "/foodapp/static/media/ohasoup.381175231040679afce6.webp",
-    "static/media/logo.jpeg": "/foodapp/static/media/logo.d2cfe740c7d5b55bb11c.jpeg",
-    "static/media/abacha.jpeg": "/foodapp/static/media/abacha.28b1fdc8273e1a088b3a.jpeg",
-    "static/media/jollofrice.jpeg": "/foodapp/static/media/jollofrice.1008bd9cdf7ddc6b56cb.jpeg",
-    "static/media/vegetablesoup.jpeg": "/foodapp/static/media/vegetablesoup.b001f79f12e8301b15d2.jpeg",
-    "index.html": "/foodapp/index.html",
-    "main.48afa94b.css.map": "/foodapp/static/css/main.48afa94b.css.map",
-    "main.cd24e1b3.js.map": "/foodapp/static/js/main.cd24e1b3.js.map",
-    "787.c20870d0.chunk.js.map": "/foodapp/static/js/787.c20870d0.chunk.js.map"
+    "main.css": "/FoodApp/static/css/main.48afa94b.css",
+    "main.js": "/FoodApp/static/js/main.0b67cf9f.js",
+    "static/js/787.c20870d0.chunk.js": "/FoodApp/static/js/787.c20870d0.chunk.js",
+    "static/media/reataurant.jpg": "/FoodApp/static/media/reataurant.805ca91f81b7e6746a57.jpg",
+    "static/media/ohasoup.webp": "/FoodApp/static/media/ohasoup.381175231040679afce6.webp",
+    "static/media/logo.jpeg": "/FoodApp/static/media/logo.d2cfe740c7d5b55bb11c.jpeg",
+    "static/media/abacha.jpeg": "/FoodApp/static/media/abacha.28b1fdc8273e1a088b3a.jpeg",
+    "static/media/jollofrice.jpeg": "/FoodApp/static/media/jollofrice.1008bd9cdf7ddc6b56cb.jpeg",
+    "static/media/vegetablesoup.jpeg": "/FoodApp/static/media/vegetablesoup.b001f79f12e8301b15d2.jpeg",
+    "index.html": "/FoodApp/index.html",
+    "main.48afa94b.css.map": "/FoodApp/static/css/main.48afa94b.css.map",
+    "main.0b67cf9f.js.map": "/FoodApp/static/js/main.0b67cf9f.js.map",
+    "787.c20870d0.chunk.js.map": "/FoodApp/static/js/787.c20870d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48afa94b.css",
-    "static/js/main.cd24e1b3.js"
+    "static/js/main.0b67cf9f.js"
   ]
 }
